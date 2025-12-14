@@ -3,5 +3,5 @@
 - `test_96b.py` – code for embedding and extracting watermarks using the 96-bit version of VideoSeal
 - `test_256b.py` – code for embedding and extracting watermarks useing the 256-bit version of VideoSeal
 
- Overwriting_Attack_on_Video_Watermarking.pdf contains the report for experiment result.
+ - `Overwriting_Attack_on_Video_Watermarking.pdf` - technical report
 
